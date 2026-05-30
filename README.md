@@ -1,29 +1,20 @@
-# Hi 👋 I'm Mohammed Mubeen
+Hi 👋 I'm Mohammed Mubeen
 
-💻 Computer Science Engineering Student  
-🚀 Full Stack MERN Developer  
-🤖 Exploring AI + Web Development  
+💻 Computer Science Engineering Student (3rd Year)
+🚀 Learning Full Stack Development & Generative AI
+🌐 Exploring Django, Web Development & Backend Systems
+☕ Practicing Java + DSA
 🎓 Building practical and scalable projects
 
-## Skills
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- REST APIs
-- JWT Authentication
-- Cloudinary
-- Groq API
+Skills & Learning:
 
-## Featured Project
-🎓 AI College Event Management System  
-AI-powered MERN platform with authentication, payments, QR tickets and analytics.
-
-🔗 Live Demo: https://ai-college-events.netlify.app/  
-🔗 Project Repo: https://github.com/mdmubeen001/ai-college-event-management
-
-## Currently Learning
-- Advanced MERN
-- AI Integration
-- System Design
+* C Programming
+* Java
+* DSA
+* HTML / CSS / JavaScript
+* React.js
+* Node.js
+* Django
+* MongoDB
+* REST APIs
+* AI / GenAI
